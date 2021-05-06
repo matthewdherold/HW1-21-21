@@ -4,8 +4,7 @@ body {
 
 button {
     height: fit-content;
-    min-width: 12ch;
-    margin: 5px;
+    min-width: 20ch;
 }
 
 ol {
